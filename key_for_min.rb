@@ -3,9 +3,9 @@
 
 def key_for_min_value(name_hash)
 key_result = ""
-index = 
+index = 0
 name_hash.each do |key, value|
-
+  while index < num.count 
 
 end
 

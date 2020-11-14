@@ -6,7 +6,7 @@ key_result = ""
 index = 0
 name_hash.each do |key, value|
   while index < num.count do 
-    if 
+    if index < 
 
 end
 
